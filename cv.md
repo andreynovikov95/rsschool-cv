@@ -38,7 +38,7 @@ const calculate = function(firstNumber, secondNumber, operator) {
 In my free time I'm engaged in self-study.\
 [Typescript](https://github.com/andreynovikov95/react-messenger)\
 [Angular](https://github.com/andreynovikov95/itProger)\
-[Angular](https://github.com/andreynovikov95/webDeveloperBlog)\
+[Angular](https://github.com/andreynovikov95/webDeveloperBlog)
 
 ## English skills.
 Has successfully completed general English. And has achieved the level **pre-intermediate**.\
