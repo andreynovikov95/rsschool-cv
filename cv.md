@@ -4,7 +4,7 @@
 **E-mail**: cooking95@yandex.ru
 
 ## Work experience
-is **3+ years**. My goal is to become a **senior** developer.
+is **3+ years**. My goal is to become a **Senior** developer.
 
 ## Skills:
 * JavaScript
@@ -36,9 +36,9 @@ const calculate = function(firstNumber, secondNumber, operator) {
 };
 ```
 In my free time I'm engaged in self-study.\
-[Typescript](https://github.com/andreynovikov95/react-messenger)
-[Angular](https://github.com/andreynovikov95/itProger)
-[Angular](https://github.com/andreynovikov95/webDeveloperBlog)
+[Typescript](https://github.com/andreynovikov95/react-messenger)\
+[Angular](https://github.com/andreynovikov95/itProger)\
+[Angular](https://github.com/andreynovikov95/webDeveloperBlog)\
 
 ## English skills.
 Has successfully completed general English. And has achieved the level **pre-intermediate**.\
