@@ -41,5 +41,6 @@ In my free time I'm engaged in self-study.\
 [Angular](https://github.com/andreynovikov95/webDeveloperBlog)
 
 ## English skills.
-Has successfully completed general English. And has achieved the following level: **pre-intermediate**.
-Date of issue: February 19, 2021. Professional Education **"SKYEND"**.
+Has successfully completed general English. And has achieved the level **pre-intermediate**.\
+Date of issue: February 19, 2021. Professional Education **"SKYEND"**.\
+![Certificate of completion.png](/Certificate of completion.png)
