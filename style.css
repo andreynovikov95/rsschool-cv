@@ -59,6 +59,11 @@ body {
   width: 100%;
 }
 
+.header-list {
+  display: flex;
+  list-style-type: none;
+}
+
 .header-email,
 .footer-email {
   padding-left: 28px;
